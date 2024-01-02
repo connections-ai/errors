@@ -3,7 +3,7 @@ package errors_test
 import (
 	errors2 "errors"
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 var (

@@ -1,3 +1,3 @@
-module github.com/ace-zhaoy/errors
+module github.com/connections-ai/errors
 
 go 1.18

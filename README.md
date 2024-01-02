@@ -3,7 +3,7 @@ Package errors Adds stack trace support for errors in go, along with support for
 
 # Install
 ```shell
-go get github.com/ace-zhaoy/errors
+go get github.com/connections-ai/errors
 ```
 
 # Usage
@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"os"
 )
 
@@ -60,7 +60,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"os"
 )
 
@@ -109,7 +109,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 const (
@@ -192,7 +192,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 var (

@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"os"
 )
 
@@ -56,7 +56,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 func Service() error {
@@ -90,7 +90,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 const (
@@ -176,7 +176,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"os"
 )
 
@@ -211,7 +211,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"github.com/jinzhu/gorm"
 	"github.com/redis/go-redis/v9"
 )
@@ -272,7 +272,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 )
 
 func A(a int) error {
@@ -326,7 +326,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ace-zhaoy/errors"
+	"github.com/connections-ai/errors"
 	"log"
 )
 
